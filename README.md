@@ -6,38 +6,38 @@ Kedium is a dynamic and user-friendly tech blog platform developed using the Cod
 
 ## 🔑 Key Technologies Used
 
-🌐 CodeIgniter PHP Framework
+- 🌐 CodeIgniter PHP Framework
 
-💾 MySQL Database
+- 💾 MySQL Database
 
-🎨 HTML5, CSS3, Bootstrap
+- 🎨 HTML5, CSS3, Bootstrap
 
-⚙️ AJAX & jQuery
+- ⚙️ AJAX & jQuery
 
-🔒 PHP Sessions for Security
+- 🔒 PHP Sessions for Security
 
 
 ## 🚀 Features
 
-📝 Create, Read, Update, and Delete (CRUD) operations for blog management.
+- 📝 Create, Read, Update, and Delete (CRUD) operations for blog management.
 
-📷 Image Management for blog posts with dynamic image uploads for each blog entry.
+- 📷 Image Management for blog posts with dynamic image uploads for each blog entry.
 
-🎯 User-Friendly Dashboard for simplified blog and category management.
+- 🎯 User-Friendly Dashboard for simplified blog and category management.
 
-🔎 Search Functionality to find blogs efficiently.
+- 🔎 Search Functionality to find blogs efficiently.
 
-🛡️ Secure User Panel with authentication for content control, only authorized user can add the blog and non-registered user will only be able to view the blogs on the site.
+- 🛡️ Secure User Panel with authentication for content control, only authorized user can add the blog and non-registered user will only be able to view the blogs on the site.
 
-🗂️ Category Management for better content organization.
+- 🗂️ Category Management for better content organization.
 
-🖥️ Pagination Support to enhance blog browsing experience.
+- 🖥️ Pagination Support to enhance blog browsing experience.
 
-📈 Dynamic Blog Statistics for better content insights.
+- 📈 Added a Trend and Statistics page to show the current Indian market detailed analysis in tech world.
 
-💾 Database Integration using MySQL for scalable data handling.
+- 💾 Database Integration using MySQL for scalable data handling.
 
-🔄 Auto Image Resizing to maintain consistent blog visuals.
+- 🔄 Auto Image Resizing to maintain consistent blog visuals.
 
 ## 🗂️ File Structure
 
