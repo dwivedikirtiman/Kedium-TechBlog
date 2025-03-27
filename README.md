@@ -161,6 +161,9 @@ $config['base_url'] .= preg_replace('@/+$@','', dirname($_SERVER['SCRIPT_NAME'])
 - Registered User can create new Categories
   ![image](https://github.com/user-attachments/assets/9509d891-9949-44be-826e-c14aafc57037)
 
+- PHP Admin Page for the database look like this
+  ![image](https://github.com/user-attachments/assets/3933bfec-f138-4bf6-938e-063004475781)
+
  
 ## 🧩 Future Enhancements (Suggestions/Optional)
 
